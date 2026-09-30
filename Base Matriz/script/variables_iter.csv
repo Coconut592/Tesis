@@ -1,0 +1,68 @@
+mnemonico,tema,indicador_inegi,denominador,agregada
+POBTOT,Población,Población total,,0
+POBFEM,Población,Población femenina,POBTOT,0
+POBMAS,Población,Población masculina,POBTOT,0
+REL_H_M,Población,Relación hombres-mujeres,,0
+POB0_14,Población,Población de 0 a 14 años,POBTOT,0
+POB15_64,Población,Población de 15 a 64 años,POBTOT,0
+POB65_MAS,Población,Población de 65 años y más,POBTOT,0
+P_60YMAS,Población,Población de 60 años y más,POBTOT,0
+P_3YMAS,Población,Población de 3 años y más,,1
+P_12YMAS,Población,Población de 12 años y más,,0
+P_15YMAS,Población,Población de 15 años y más,,0
+P_18YMAS,Población,Población de 18 años y más,,0
+VIVPARH_CV,Vivienda y hogares,Total de viviendas particulares habitadas con características,,0
+TVIVPARHAB,Vivienda y hogares,Total de viviendas particulares habitadas,,0
+VIVPAR_HAB,Vivienda y hogares,Viviendas particulares habitadas,,0
+OCUPVIVPAR,Vivienda y hogares,Ocupantes en viviendas particulares habitadas,,0
+PROM_OCUP,Vivienda y hogares,Promedio de ocupantes en viviendas particulares habitadas,,0
+TOTHOG,Vivienda y hogares,Total de hogares censales,,0
+POBHOG,Vivienda y hogares,Población en hogares censales,,0
+HOGJEF_F,Vivienda y hogares,Hogares censales con persona de referencia mujer,TOTHOG,0
+VPH_INTER,TIC,Viviendas particulares habitadas que disponen de Internet,VIVPARH_CV,0
+VPH_PC,TIC,"Viviendas particulares habitadas que disponen de computadora, laptop o tablet",VIVPARH_CV,0
+VPH_CEL,TIC,Viviendas particulares habitadas que disponen de teléfono celular,VIVPARH_CV,0
+VPH_TELEF,TIC,Viviendas particulares habitadas que disponen de línea telefónica fija,VIVPARH_CV,0
+VPH_STVP,TIC,Viviendas particulares habitadas que disponen de servicio de televisión de paga,VIVPARH_CV,0
+VPH_SPMVPI,TIC,"Viviendas particulares habitadas que disponen de servicio de películas, música o videos de paga por Internet",VIVPARH_CV,0
+VPH_CVJ,TIC,Viviendas particulares habitadas que disponen de consola de videojuegos,VIVPARH_CV,0
+VPH_RADIO,TIC,Viviendas particulares habitadas que disponen de radio,VIVPARH_CV,0
+VPH_TV,TIC,Viviendas particulares habitadas que disponen de televisor,VIVPARH_CV,0
+VPH_SINCINT,TIC,Viviendas particulares habitadas sin computadora ni Internet,VIVPARH_CV,0
+VPH_SINLTC,TIC,Viviendas particulares habitadas sin línea telefónica fija ni teléfono celular,VIVPARH_CV,0
+VPH_SINRTV,TIC,Viviendas particulares habitadas sin radio ni televisor,VIVPARH_CV,0
+VPH_SINTIC,TIC,Viviendas particulares habitadas sin tecnologías de la información y de la comunicación (TIC),VIVPARH_CV,0
+GRAPROES,Capital humano y economía,Grado promedio de escolaridad,,0
+P15YM_AN,Capital humano y economía,Población de 15 años y más analfabeta,P_15YMAS,0
+P15YM_SE,Capital humano y economía,Población de 15 años y más sin escolaridad,P_15YMAS,0
+P18YM_PB,Capital humano y economía,Población de 18 años y más con educación posbásica,P_18YMAS,0
+P15PRI_IN,Capital humano y economía,Población de 15 años y más con primaria incompleta,P_15YMAS,0
+P15SEC_CO,Capital humano y economía,Población de 15 años y más con secundaria completa,P_15YMAS,0
+PEA,Capital humano y economía,Población de 12 años y más económicamente activa,P_12YMAS,0
+PE_INAC,Capital humano y economía,Población de 12 años y más no económicamente activa,P_12YMAS,0
+POCUPADA,Capital humano y economía,Población de 12 años y más ocupada,PEA,0
+PDESOCUP,Capital humano y economía,Población de 12 años y más desocupada,PEA,0
+VPH_PISODT,Vivienda y servicios,Viviendas particulares habitadas con piso de material diferente de tierra,VIVPARH_CV,0
+VPH_PISOTI,Vivienda y servicios,Viviendas particulares habitadas con piso de tierra,VIVPARH_CV,0
+VPH_1CUART,Vivienda y servicios,Viviendas particulares habitadas con sólo un cuarto,VIVPARH_CV,0
+VPH_1DOR,Vivienda y servicios,Viviendas particulares habitadas con un dormitorio,VIVPARH_CV,0
+VPH_C_ELEC,Vivienda y servicios,Viviendas particulares habitadas que disponen de energía eléctrica,VIVPARH_CV,0
+VPH_S_ELEC,Vivienda y servicios,Viviendas particulares habitadas que no disponen de energía eléctrica,VIVPARH_CV,0
+VPH_AGUADV,Vivienda y servicios,Viviendas particulares habitadas que disponen de agua entubada en el ámbito de la vivienda,VIVPARH_CV,0
+VPH_AGUAFV,Vivienda y servicios,Viviendas particulares habitadas que no disponen de agua entubada en el ámbito de la vivienda,VIVPARH_CV,1
+VPH_NDEAED,Vivienda y servicios,"Viviendas particulares habitadas que no disponen de energía eléctrica, agua entubada, ni drenaje",VIVPARH_CV,0
+VPH_DRENAJ,Vivienda y servicios,Viviendas particulares habitadas que disponen de drenaje,VIVPARH_CV,0
+VPH_NODREN,Vivienda y servicios,Viviendas particulares habitadas que no disponen de drenaje,VIVPARH_CV,0
+VPH_C_SERV,Vivienda y servicios,"Viviendas particulares habitadas que disponen de energía eléctrica, agua entubada de la red pública y drenaje",VIVPARH_CV,0
+VPH_REFRI,Vivienda y servicios,Viviendas particulares habitadas que disponen de refrigerador,VIVPARH_CV,0
+VPH_LAVAD,Vivienda y servicios,Viviendas particulares habitadas que disponen de lavadora,VIVPARH_CV,0
+VPH_AUTOM,Vivienda y servicios,Viviendas particulares habitadas que disponen de automóvil o camioneta,VIVPARH_CV,0
+VPH_MOTO,Vivienda y servicios,Viviendas particulares habitadas que disponen de motocicleta o motoneta,VIVPARH_CV,0
+VPH_BICI,Vivienda y servicios,Viviendas particulares habitadas que disponen de bicicleta como medio de transporte,VIVPARH_CV,0
+VPH_SNBIEN,Vivienda y servicios,Viviendas particulares habitadas sin ningún bien,VIVPARH_CV,0
+PSINDER,"Salud, etnicidad y discapacidad",Población sin afiliación a servicios de salud,POBTOT,0
+PDER_SS,"Salud, etnicidad y discapacidad",Población afiliada a servicios de salud,POBTOT,0
+P3YM_HLI,"Salud, etnicidad y discapacidad",Población de 3 años y más que habla alguna lengua indígena,P_3YMAS,0
+PHOG_IND,"Salud, etnicidad y discapacidad",Población en hogares censales indígenas,POBTOT,0
+POB_AFRO,"Salud, etnicidad y discapacidad",Población que se considera afromexicana o afrodescendiente,POBTOT,0
+PCON_DISC,"Salud, etnicidad y discapacidad",Población con discapacidad,POBTOT,0
